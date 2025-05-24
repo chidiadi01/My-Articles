@@ -28,15 +28,15 @@ Hello! My name is Chidiadi Anyanwu. I write about Networking, Cloud, and DevOps.
 
 - [How Domain Name System (DNS) Works](https://www.linkedin.com/pulse/dns-deep-dive-chidiadi-anyanwu/)  -   LinkedIn
 
--[Is HTTP A Network Protocol?](https://www.linkedin.com/pulse/http-network-protocol-chidiadi-anyanwu/)   -   LinkedIn
+- [Is HTTP A Network Protocol?](https://www.linkedin.com/pulse/http-network-protocol-chidiadi-anyanwu/)   -   LinkedIn
 
--[Is HTTP A Network Protocol (Pt 2) - The Evolution of HTTP](https://www.linkedin.com/pulse/http-networking-protocol-pt-2-evolution-chidiadi-anyanwu/)   -   LinkedIn
+- [Is HTTP A Network Protocol (Pt 2) - The Evolution of HTTP](https://www.linkedin.com/pulse/http-networking-protocol-pt-2-evolution-chidiadi-anyanwu/)   -   LinkedIn
 
--[Why Is It Called Root Bridge, And Not Root Switch? | The Spanning Tree Protocol (STP)](https://www.linkedin.com/pulse/why-called-root-bridge-switch-spanning-tree-protocol-chidiadi-anyanwu/)   -   LinkedIn
+- [Why Is It Called Root Bridge, And Not Root Switch? | The Spanning Tree Protocol (STP)](https://www.linkedin.com/pulse/why-called-root-bridge-switch-spanning-tree-protocol-chidiadi-anyanwu/)   -   LinkedIn
 
 -[Virtual Local Area Network (VLAN)](https://www.linkedin.com/pulse/virtual-local-area-network-vlan-chidiadi-anyanwu/)   -   LinkedIn
 
--[Dynamic Host Configuration Protocol (DHCP)](https://www.linkedin.com/pulse/why-non-techies-can-access-internet-dynamic-host-protocol-anyanwu/")   -   LinkedIn
+- [Dynamic Host Configuration Protocol (DHCP)](https://www.linkedin.com/pulse/why-non-techies-can-access-internet-dynamic-host-protocol-anyanwu/")   -   LinkedIn
 
 - [The Common, But Nameless Protocol](https://www.linkedin.com/pulse/common-nameless-network-protocol-chidiadi-anyanwu/)     -   LinkedIn
 
