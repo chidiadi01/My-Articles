@@ -34,7 +34,7 @@ Hello! My name is Chidiadi Anyanwu. I write about Networking, Cloud, and DevOps.
 
 - [Why Is It Called Root Bridge, And Not Root Switch? | The Spanning Tree Protocol (STP)](https://www.linkedin.com/pulse/why-called-root-bridge-switch-spanning-tree-protocol-chidiadi-anyanwu/)   -   LinkedIn
 
--[Virtual Local Area Network (VLAN)](https://www.linkedin.com/pulse/virtual-local-area-network-vlan-chidiadi-anyanwu/)   -   LinkedIn
+- [Virtual Local Area Network (VLAN)](https://www.linkedin.com/pulse/virtual-local-area-network-vlan-chidiadi-anyanwu/)   -   LinkedIn
 
 - [Dynamic Host Configuration Protocol (DHCP)](https://www.linkedin.com/pulse/why-non-techies-can-access-internet-dynamic-host-protocol-anyanwu/")   -   LinkedIn
 
